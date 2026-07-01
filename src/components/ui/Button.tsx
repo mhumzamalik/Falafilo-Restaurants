@@ -23,7 +23,7 @@ export function Button({ variant = "primary", className, children, ...props }: B
       whileHover={{ scale: 1.05 }}
       whileTap={{ scale: 0.95 }}
       className={cn(baseStyles, variants[variant], className)}
-      {...props}
+      {...(props as any)}
     >
       {children}
     </motion.button>
