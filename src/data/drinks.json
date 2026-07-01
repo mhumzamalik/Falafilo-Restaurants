@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Mojito",
+    "description": "Refreshing blend of mint, lime, and rum.",
+    "price": 10,
+    "image": "https://plus.unsplash.com/premium_photo-1722194069211-199c1b4a2e0c?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Q2xhc3NpYyUyME1vaml0b3xlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 2,
+    "name": "Red Wine",
+    "description": "Premium aged Cabernet Sauvignon.",
+    "price": 15,
+    "image": "https://images.unsplash.com/photo-1553361371-9b22f78e8b1d?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8UmVkJTIwV2luZXxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 3,
+    "name": "Espresso Martini",
+    "description": "Rich espresso with vodka and coffee liqueur.",
+    "price": 12,
+    "image": "https://images.unsplash.com/photo-1678261739137-85881474209c?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8RXNwcmVzc28lMjBNYXJ0aW5pfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 4,
+    "name": "Mango Smoothie",
+    "description": "Fresh mango blended with yogurt and honey.",
+    "price": 8,
+    "image": "https://images.unsplash.com/photo-1697642452436-9c40773cbcbb?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8TWFuZ28lMjBTbW9vdGhpZXxlbnwwfHwwfHx8MA%3D%3D"
+  }
+]

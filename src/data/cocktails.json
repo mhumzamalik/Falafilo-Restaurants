@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Old Fashioned",
+    "description": "Classic bourbon cocktail with bitters and orange zest.",
+    "price": 14,
+    "image": "https://images.unsplash.com/photo-1658699440679-0f09683423f5?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8T2xkJTIwRmFzaGlvbmVkfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 2,
+    "name": "Margarita",
+    "description": "Refreshing tequila cocktail with lime and triple sec.",
+    "price": 12,
+    "image": "https://images.unsplash.com/photo-1634003311194-152e30e732f7?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8TWFyZ2FyaXRhfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 3,
+    "name": "Negroni",
+    "description": "Bold mix of gin, vermouth, and Campari.",
+    "price": 13,
+    "image": "https://images.unsplash.com/photo-1551751299-1b51cab2694c?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8TmVncm9uaXxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 4,
+    "name": "Cosmopolitan",
+    "description": "Vodka, cranberry, and citrus blend for a chic drink.",
+    "price": 11,
+    "image": "https://images.unsplash.com/photo-1556855810-ac404aa91e85?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Q29zbW9wb2xpdGFufGVufDB8fDB8fHww"
+  }
+]

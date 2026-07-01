@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Sophia L.",
+    "role": "Food Critic",
+    "quote": "An unforgettable dining experience — every detail was perfect."
+  },
+  {
+    "id": 2,
+    "name": "James R.",
+    "role": "Customer",
+    "quote": "The flavors were exquisite, and the atmosphere felt luxurious."
+  },
+  {
+    "id": 3,
+    "name": "Aisha K.",
+    "role": "Event Planner",
+    "quote": "Ideal venue for special occasions — elegant and professional."
+  }
+]

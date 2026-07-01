@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "name": "Grilled Salmon",
+    "description": "Fresh Atlantic salmon with herbs and lemon butter.",
+    "price": 24,
+    "image": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 2,
+    "name": "Truffle Pasta",
+    "description": "Homemade pasta with creamy truffle sauce.",
+    "price": 18,
+    "image": "https://images.unsplash.com/photo-1601556123240-462c758a50db?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 3,
+    "name": "Steak au Poivre",
+    "description": "Prime beef steak with peppercorn sauce.",
+    "price": 10,
+    "image": "https://plus.unsplash.com/premium_photo-1669261882102-8f51c8b113c9?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 4,
+    "name": "Wiener Schnitzel",
+    "description": "Breaded and pan-fried veal or pork served with potatoes or salad",
+    "price": 32,
+    "image": "https://images.unsplash.com/photo-1560611588-163f295eb145?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8V2llbmVyJTIwU2Nobml0emVsfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 5,
+    "name": "Tafelspitz",
+    "description": "Slow-boiled beef served with vegetables, potatoes, and horseradish",
+    "price": 66,
+    "image": "https://plus.unsplash.com/premium_photo-1668616815106-2fb55768587c?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8VGFmZWxzcGl0enxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 6,
+    "name": "Gulasch",
+    "description": "Rich beef stew with paprika, often served with bread or dumplings.",
+    "price": 35,
+    "image": "https://plus.unsplash.com/premium_photo-1669687759693-52ba5f9fa7a8?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fEd1bGFzY2h8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "id": 7,
+    "name": "Backhendl",
+    "description": "Crispy fried chicken with potato salad",
+    "price": 20,
+    "image": "https://die-frau-am-grill.de/wp-content/uploads/wiener-backhendl.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Käsespätzle",
+    "description": "Soft egg noodles mixed with melted cheese and crispy onions.",
+    "price": 22,
+    "image": "https://images.unsplash.com/photo-1552560838-7da14d3fcac5?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8SyVDMyVBNHNlc3AlQzMlQTR0emxlfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 9,
+    "name": "Apfelstrudel",
+    "description": "Thin pastry filled with spiced apples and raisins.",
+    "price": 5,
+    "image": "https://images.unsplash.com/photo-1657313938000-23c4322dbe22?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8QXBmZWxzdHJ1ZGVsfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 10,
+    "name": "Sachertorte",
+    "description": "Rich chocolate cake with apricot jam.",
+    "price": 12,
+    "image": "https://images.unsplash.com/photo-1627394728092-d080498ae85d?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8U2FjaGVydG9ydGV8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "id": 11,
+    "name": "Kaiserschmarrn",
+    "description": "Fluffy caramelized pancake served with fruit compote.",
+    "price": 10,
+    "image": "https://images.unsplash.com/photo-1774988868167-c3a5be542236?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8S2Fpc2Vyc2NobWFycm58ZW58MHx8MHx8fDA%3D"
+  }
+]
