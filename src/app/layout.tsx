@@ -4,7 +4,7 @@ import { Navbar } from "@/components/layout/Navbar";
 import { Footer } from "@/components/layout/Footer";
 
 export const metadata: Metadata = {
-  title: "Premium Restaurant",
+  title: "Falafilo Premium Restaurant",
   description: "A modern premium dining experience",
 };
 
